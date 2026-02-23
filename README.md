@@ -3,8 +3,8 @@ Data and Code related to the Poster ["Namen in Dramen: Es klingt so, als wurden 
 
 # Requirements
 
-- all scripts where developed and tested on Python 3.12.9
-- install dependencies from `requirements.txt` (e.g. by using [venv](https://docs.python.org/3/library/venv.html#creating-virtual-environments))
+- all scripts where developed and tested on Python 3.12.9 and XQuery 3.0
+- to run the Jupyter notebooks, install dependencies from `requirements.txt` (e.g. by using [venv](https://docs.python.org/3/library/venv.html#creating-virtual-environments))
 
 # Dir Structure
 
